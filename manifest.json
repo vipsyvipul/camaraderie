@@ -4,13 +4,13 @@
     "manifest_version": 2,
     "theme": {
         "images": {
-            "theme_frame": "images/polygon-background3.png",
-            "theme_frame_inactive": "images/polygon-background3.png",
-            "theme_frame_incognito": "images/polygon-background3.png",
-            "theme_frame_incognito_inactive": "images/polygon-background3.png",
-            "theme_toolbar": "images/polygon-background3.png",
-            "theme_ntp_background": "images/polygon-background9.png",
-            "theme_ntp_background_incognito": "images/polygon-background9.png",
+            "theme_frame": "images/bg-top.png",
+            "theme_frame_inactive": "images/bg-top.png",
+            "theme_frame_incognito": "images/bg-top.png",
+            "theme_frame_incognito_inactive": "images/bg-top.png",
+            "theme_toolbar": "images/bg-top.png",
+            "theme_ntp_background": "images/bg-ntp.png",
+            "theme_ntp_background_incognito": "images/bg-ntp.png",
             "theme_ntp_attribution":"images/attribution.png"
         },
         "colors": {
