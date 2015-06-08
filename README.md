@@ -13,4 +13,4 @@ And its customizable! Download the package, resize your favorite image to atleas
 
 __NOTE:__ Upon restarting your browser it might display a warning. If the ghost stories do not haunt you, you can safely ignore the warning else get under your bed.
 
-__License - __You are free to recreate, redistribute and criticize this product. Rejoice.
+__License -__You are free to recreate, redistribute and criticize this product. Rejoice.
