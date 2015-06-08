@@ -1,0 +1,27 @@
+{
+    "name": "Camaraderie",
+    "version": "1.0",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images/polygon-background3.png",
+            "theme_frame_inactive": "images/polygon-background3.png",
+            "theme_frame_incognito": "images/polygon-background3.png",
+            "theme_frame_incognito_inactive": "images/polygon-background3.png",
+            "theme_toolbar": "images/polygon-background3.png",
+            "theme_ntp_background": "images/polygon-background9.png",
+            "theme_ntp_background_incognito": "images/polygon-background9.png",
+            "theme_ntp_attribution":"images/attribution.png"
+        },
+        "colors": {
+            "tab_text": [255, 255, 255],
+            "bookmark_text": [255, 255, 255],
+            "ntp_text": [255, 255, 255],
+            "toolbar":[51,51,51]
+        },
+        "properties": {
+            "ntp_background_repeat": "no-repeat",
+            "ntp_logo_alternate":1
+        }
+    }
+}
